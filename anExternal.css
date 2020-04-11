@@ -1,0 +1,52 @@
+body {
+	background-color: pink;
+}
+p.rtl {
+  direction: rtl;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+p.ex1 {
+  margin: 20px;
+}
+
+p.dotted {border-style: dotted;}
+
+.right {
+  float: right;
+  margin-left: 1em;
+}
+
+#rcorners2 {
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+}
+
+
+figure {
+  text-align: center;
+  text-transform: uppercase;
+  padding: .2em;
+  margin: 0;
+}
+
+figure img {
+  max-width: 100%;
+}
