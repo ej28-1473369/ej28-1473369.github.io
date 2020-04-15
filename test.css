@@ -91,6 +91,10 @@ li{
 #RightNav ul{
 	list-style-type: circle;
 }
+
+#RightNav li{
+	text-align: center;
+}
 #Content{
 	border:solid 8px black;
 	width: 700px;
