@@ -85,8 +85,11 @@ li{
 	direction: rtl;
 	color: red;
 }
+#RightNav h3{
+	font-family: "times new roman";
+}
 #RightNav ul{
-	
+	list-style-type: circle;
 }
 #Content{
 	border:solid 8px black;
