@@ -1,0 +1,130 @@
+body {
+	background-image: url("job.jpg");
+}
+
+p{
+	color: black;
+	font-family: "times new roman";
+	font-weight: bold;
+	
+}
+
+legend{
+color: black;
+	font-family: "Arial";
+	font-weight: bold;
+	
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+	
+}
+h2{
+	color: black;
+	font-size: 50px;
+	font-family: "Passion One";
+	margin-bottom: 30px;
+}
+
+li{
+	
+}
+#submit {
+	font-weight: bold;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+
+}
+#header {
+	border:solid 8px black;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align: center;
+	background-color: white;
+}
+
+#Header h1{
+	font-size: 60px;
+	font-family: "Passion One";
+	color: #FFBC00; font-weight: bold;
+}
+
+#account {
+	border:solid 8px black;
+	width: 400px;
+	text-align: left;
+	margin-left: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	padding-bottom: 8px;
+	background-color: white;
+
+}
+#account label{
+	text-align: left;
+	font-weight: bold;
+}
+
+#personal{
+	border:solid 8px black;
+	width: 600px;
+	text-align: center;
+	margin-left: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	padding-bottom: 8px;
+	background-color: white;
+	height: 150px;
+}
+#personal fieldset{
+	
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	padding-bottom: 8px;
+	background-color: white;
+	height: 130px;
+	text-align: left;
+}
+#personal label{
+	font-weight: bold;
+}
+#instruction {
+	background-color: white;
+	border:solid 8px black;
+	margin-left: auto;
+	margin-right: auto;
+	float: right;
+	width: 850px;
+	height: 300px;
+}
+#statement {
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	border:solid 8px black;
+	width: 600px;
+	
+}
+#availability {
+	border:solid 8px black;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align: left;
+	padding: 15px;
+	background-color: white;
+	
+}
+#availability fieldset {
+	font-weight: bold;
+}
