@@ -97,6 +97,9 @@ li{
 #personal label{
 	font-weight: bold;
 }
+label {
+	font-weight: bold;
+}
 #instruction {
 	background-color: white;
 	border:solid 8px black;
